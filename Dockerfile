@@ -1,3 +1,1 @@
-FROM gcr.io/runconduit/web:v0.3.1
-
-MAINTAINER ssrlxl
+FROM gcr.io/runconduit/proxy-init:v0.3.1
